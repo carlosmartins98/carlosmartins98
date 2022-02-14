@@ -1,7 +1,7 @@
 ### olá eu me chamo Carlos
 <div>
     <a href="https://github.com/carlosmartins98">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosmartins98&show_icons=true&theme=dracula&include_all_comits-true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosmartins98&show_icons=true&theme=tokyonight&include_all_comits-true&count_private=false"/>
 <br>
 </div>
 
