@@ -6,7 +6,8 @@
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-	)](https://youtube.com/channel/UCwefj7sp51ZFuEB5uGlIg0A)
+	)](https://youtube.com/channel/UCwe1fj7sp51ZFuEB5uGlIg0A)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carloshenriquemartins0098@gmail.com)
 
 ## Tecnologias que eu estou aprendendo
 
