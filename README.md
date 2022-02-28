@@ -5,10 +5,6 @@
 <br>
 </div>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-	)](https://youtube.com/channel/UCfxRlxvHN5t53uJjUaf0AyQ)
-
-
 ## Tecnologias que eu estou aprendendo
 
 <div style="display: inline_block"><br/>
